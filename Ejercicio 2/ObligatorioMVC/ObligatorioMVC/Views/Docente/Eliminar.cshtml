@@ -1,0 +1,16 @@
+﻿@using ObligatorioMVC.Models
+@model  Docente
+@{
+    ViewBag.Title = "Eliminar";
+}
+
+<h2>Realmente desea Eliminar al Docente @Model.Nombre @Model.Apellido ?</h2>
+
+@using (Html.BeginForm())
+{
+    Html.AntiForgeryToken();
+    <input type="submit" value="Eliminar" />
+    @Html.ActionLink("Cancelar", "Lista")
+
+}
+

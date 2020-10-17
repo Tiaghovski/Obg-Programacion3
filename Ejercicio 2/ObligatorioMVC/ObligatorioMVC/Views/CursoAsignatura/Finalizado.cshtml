@@ -1,0 +1,15 @@
+﻿@using ObligatorioMVC.Models
+@model ObligatorioMVC.Models.ViewModels.CursoAsignaturaViewModel
+
+@{
+    ViewBag.Title = "Alta";
+}
+
+<div class="form-group">
+        @Html.LabelFor(model => model.Finalizado, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.RadioButtonFor(model => model.Finalizado, Finalizado.Si) <span>Si</span>
+            @Html.RadioButtonFor(model => model.Finalizado, Finalizado.No) <span>No</span>
+            @Html.ValidationMessageFor(model => model.Finalizado, "", new { @class = "text-danger" })
+        </div>
+    </div>

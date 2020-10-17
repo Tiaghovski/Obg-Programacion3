@@ -1,0 +1,16 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2 style="color:darkred; font-family:Century"><b>Seleccione una de las opciones</b></h2> 
+<br />
+
+<h4>@Html.ActionLink("* Cargar Archivo de Alumnos", "CargaArchivo", "Alumno")</h4>
+<h4>@Html.ActionLink("* Listar Asignaturas", "Lista", "Asignatura")</h4>
+<h4>@Html.ActionLink("* Listar Carreras", "Lista", "Carrera")</h4>
+<h4>@Html.ActionLink("* Mantenimiento de Docentes", "Alta", "Docente")</h4>
+<h4>@Html.ActionLink("* Agregar Cursos de Asignatura", "Alta", "CursoAsignatura")</h4>
+<h4>@Html.ActionLink("* Agregar Inscripciones", "Alta", "Inscripcion")</h4>
+<h4>@Html.ActionLink("* Agregar Notas", "Alta", "Resultado")</h4>
+<h4>@Html.ActionLink("* Buscar Nota Por Documento Alumno", "Buscar", "Resultado")</h4>

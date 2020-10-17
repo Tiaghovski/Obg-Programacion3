@@ -1,0 +1,55 @@
+﻿@model IEnumerable<ObligatorioMVC.Models.Docente>
+
+@{
+    ViewBag.Title = "Lista";
+
+}
+
+@if (ViewBag.Mensaje != null)
+{
+    <div class="alert-info">@ViewBag.Mensaje</div>
+}
+    <h2 style="color:darkred; font-family:Century"><b>Lista de Docentes</b></h2>
+
+<table class="table">
+    <tr>
+        <th>
+
+            @Html.DisplayNameFor(model => model.Documento)
+        </th>
+        <th>
+
+            @Html.DisplayNameFor(model => model.Nombre)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Apellido)
+        </th>        
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>            
+            <td>
+                @item.Documento
+                @*@Html.DisplayFor(modelItem => item.Documento)*@
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Apellido)
+            </td>            
+            <td>
+                <a href="/docente/eliminar/@item.Documento">Eliminar</a>
+            </td>
+            <td>
+                <a href="/docente/editar/@item.Documento">Editar</a>
+            </td>
+        </tr>
+    }
+
+</table>
+
+<p>
+    @Html.ActionLink("Agregar Nuevo Docente", "Alta")
+</p>

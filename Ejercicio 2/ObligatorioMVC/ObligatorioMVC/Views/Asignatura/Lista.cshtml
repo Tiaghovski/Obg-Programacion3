@@ -1,0 +1,54 @@
+﻿@model IEnumerable<ObligatorioMVC.Models.Asignatura>
+
+@{
+    ViewBag.Title = "Lista";
+
+}
+
+<h2 style="color:darkred; font-family:Century"><b>Lista de Asignaturas</b></h2>
+<br />
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Codigo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Nombre)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Carrera)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Exonerable)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.GananciaCurso)
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+    <tr>        
+        <td>
+            @item.Codigo
+            @*@Html.DisplayFor(modelItem => item.Codigo)*@
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Nombre)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NombreCarrera)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Exonerable)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.GananciaCurso)
+        </td>
+    </tr>
+    }
+
+</table>
+
+

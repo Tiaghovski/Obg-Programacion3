@@ -1,0 +1,74 @@
+﻿@model ObligatorioMVC.Models.ViewModels.CursoAsignaturaViewModel
+@{
+
+    ViewBag.Title = "Alta";
+}
+
+<h2 style="color:darkred; font-family:Century"><b>Agregue un Curso de Asignatura</b></h2>
+@if (ViewBag.Mensaje != null)
+{
+    <div class="alert alert-success alert-dismissible">
+        <a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
+        @ViewBag.Mensaje
+        <span class="close"></span>
+    </div>
+}
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })       
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.fechaComienzo, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.fechaComienzo, new { htmlAttributes = new { @class = "form-control", @type ="date" } })
+                @Html.ValidationMessageFor(model => model.fechaComienzo, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.fechaFin, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.fechaFin, new { htmlAttributes = new { @class = "form-control", @type ="date"} })
+                @Html.ValidationMessageFor(model => model.fechaFin, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        @Html.Partial("Finalizado", Model)
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.ListaAsignaturas, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownListFor(model => model.NombreAsignatura, Model.ListaAsignaturas, "Seleccione la asignatura")
+                @Html.ValidationMessageFor(model => model.NombreAsignatura, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.ListaDocentes, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownListFor(model => model.DocumentoDocente, Model.ListaDocentes, "Seleccione el docente")
+                @Html.ValidationMessageFor(model => model.DocumentoDocente, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Agregar" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Ir a la Lista de Cursos de Asignatura", "Lista")
+</div>
+
+<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+<script src="~/Scripts/jquery.validate.min.js"></script>
+<script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+
+

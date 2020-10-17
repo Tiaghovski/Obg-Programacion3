@@ -1,0 +1,47 @@
+﻿@model IEnumerable<ObligatorioMVC.Models.Inscripcion>
+
+@{
+    ViewBag.Title = "Lista";
+
+}
+
+<h2 style="color:darkred; font-family:Century"><b>Lista de Inscripciones</b></h2>
+<br />
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Numero)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Alumno)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CursoAsignatura)
+        </th>
+
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @item.Numero
+                @*@Html.DisplayFor(modelItem => item.Numero)*@
+            </td>          
+            <td>
+                @Html.DisplayFor(modelItem => item.DocumentoAlumno)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CodCurAsi)
+            </td>
+        </tr>
+    }
+
+</table>
+
+<div>
+    @Html.ActionLink("Agregar una Inscripción", "Alta")
+</div>
+
+

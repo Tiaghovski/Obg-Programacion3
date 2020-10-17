@@ -1,0 +1,60 @@
+﻿@model IEnumerable<ObligatorioMVC.Models.Resultado>
+
+@{
+    ViewBag.Title = "Lista";
+
+}
+
+<h2 style="color:darkred; font-family:Century"><b>Lista de Resultados</b></h2>
+<br />
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Numero)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Alumno)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CursoAsignatura)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Nota)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ResultadoCurso)
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+    <tr>
+        <td>
+            @item.Numero
+            @*@Html.DisplayFor(modelItem => item.Numero)*@
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DocumentoAlumno)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CodigoCurso)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Nota)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ResultadoCurso)
+        </td>
+    </tr>
+    }
+
+</table>
+
+<div>
+    @Html.ActionLink("Agregar un Resultado", "Alta")
+</div>
+
+
+
+

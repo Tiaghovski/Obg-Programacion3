@@ -1,0 +1,138 @@
+c:\users\alumno\documents\visual studio 2015\Projects\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\ApplicationInsights.config
+c:\users\alumno\documents\visual studio 2015\Projects\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\roslyn\csc.exe
+c:\users\alumno\documents\visual studio 2015\Projects\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\alumno\documents\visual studio 2015\Projects\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\alumno\documents\visual studio 2015\Projects\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\alumno\documents\visual studio 2015\Projects\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\alumno\documents\visual studio 2015\Projects\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\alumno\documents\visual studio 2015\Projects\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\alumno\documents\visual studio 2015\Projects\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\roslyn\System.Collections.Immutable.dll
+c:\users\alumno\documents\visual studio 2015\Projects\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\alumno\documents\visual studio 2015\Projects\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\roslyn\vbc.exe
+c:\users\alumno\documents\visual studio 2015\Projects\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\roslyn\VBCSCompiler.exe
+c:\users\alumno\documents\visual studio 2015\Projects\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\roslyn\VBCSCompiler.exe.config
+c:\users\alumno\documents\visual studio 2015\Projects\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\ClienteWebFormObligatorio.dll.config
+c:\users\alumno\documents\visual studio 2015\Projects\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\ClienteWebFormObligatorio.dll
+c:\users\alumno\documents\visual studio 2015\Projects\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\ClienteWebFormObligatorio.pdb
+c:\users\alumno\documents\visual studio 2015\Projects\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\alumno\documents\visual studio 2015\Projects\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\alumno\documents\visual studio 2015\Projects\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\alumno\documents\visual studio 2015\Projects\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\alumno\documents\visual studio 2015\Projects\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\Microsoft.AI.Web.dll
+c:\users\alumno\documents\visual studio 2015\Projects\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\Microsoft.AI.WindowsServer.dll
+c:\users\alumno\documents\visual studio 2015\Projects\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\Microsoft.ApplicationInsights.dll
+c:\users\alumno\documents\visual studio 2015\Projects\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\alumno\documents\visual studio 2015\Projects\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\alumno\documents\visual studio 2015\Projects\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\alumno\documents\visual studio 2015\Projects\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\Microsoft.AI.Web.xml
+c:\users\alumno\documents\visual studio 2015\Projects\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\Microsoft.AI.WindowsServer.xml
+c:\users\alumno\documents\visual studio 2015\Projects\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\Microsoft.ApplicationInsights.xml
+c:\users\alumno\documents\visual studio 2015\Projects\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\alumno\documents\visual studio 2015\Projects\ClienteWebFormObligatorio\ClienteWebFormObligatorio\obj\Debug\ClienteWebFormObligatorio.csprojResolveAssemblyReference.cache
+c:\users\alumno\documents\visual studio 2015\Projects\ClienteWebFormObligatorio\ClienteWebFormObligatorio\obj\Debug\ClienteWebFormObligatorio.dll
+c:\users\alumno\documents\visual studio 2015\Projects\ClienteWebFormObligatorio\ClienteWebFormObligatorio\obj\Debug\ClienteWebFormObligatorio.pdb
+E:\Programación III\Obligatorio\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\ApplicationInsights.config
+E:\Programación III\Obligatorio\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\roslyn\csc.exe
+E:\Programación III\Obligatorio\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Programación III\Obligatorio\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Programación III\Obligatorio\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Programación III\Obligatorio\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Programación III\Obligatorio\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Programación III\Obligatorio\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Programación III\Obligatorio\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\roslyn\System.Collections.Immutable.dll
+E:\Programación III\Obligatorio\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\roslyn\System.Reflection.Metadata.dll
+E:\Programación III\Obligatorio\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\roslyn\vbc.exe
+E:\Programación III\Obligatorio\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\roslyn\VBCSCompiler.exe
+E:\Programación III\Obligatorio\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\roslyn\VBCSCompiler.exe.config
+E:\Programación III\Obligatorio\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\ClienteWebFormObligatorio.dll.config
+E:\Programación III\Obligatorio\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\ClienteWebFormObligatorio.dll
+E:\Programación III\Obligatorio\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\ClienteWebFormObligatorio.pdb
+E:\Programación III\Obligatorio\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Programación III\Obligatorio\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\Microsoft.AI.DependencyCollector.dll
+E:\Programación III\Obligatorio\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Programación III\Obligatorio\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Programación III\Obligatorio\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\Microsoft.AI.Web.dll
+E:\Programación III\Obligatorio\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\Microsoft.AI.WindowsServer.dll
+E:\Programación III\Obligatorio\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\Microsoft.ApplicationInsights.dll
+E:\Programación III\Obligatorio\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Programación III\Obligatorio\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\Microsoft.AI.DependencyCollector.xml
+E:\Programación III\Obligatorio\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Programación III\Obligatorio\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\Microsoft.AI.Web.xml
+E:\Programación III\Obligatorio\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\Microsoft.AI.WindowsServer.xml
+E:\Programación III\Obligatorio\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\Microsoft.ApplicationInsights.xml
+E:\Programación III\Obligatorio\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Programación III\Obligatorio\ClienteWebFormObligatorio\ClienteWebFormObligatorio\obj\Debug\ClienteWebFormObligatorio.csprojAssemblyReference.cache
+E:\Programación III\Obligatorio\ClienteWebFormObligatorio\ClienteWebFormObligatorio\obj\Debug\ClienteWebFormObligatorio.csproj.CoreCompileInputs.cache
+E:\Programación III\Obligatorio\ClienteWebFormObligatorio\ClienteWebFormObligatorio\obj\Debug\ClienteWebFormObligatorio.csproj.CopyComplete
+E:\Programación III\Obligatorio\ClienteWebFormObligatorio\ClienteWebFormObligatorio\obj\Debug\ClienteWebFormObligatorio.dll
+E:\Programación III\Obligatorio\ClienteWebFormObligatorio\ClienteWebFormObligatorio\obj\Debug\ClienteWebFormObligatorio.pdb
+D:\Programación III\Obligatorio\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\ApplicationInsights.config
+D:\Programación III\Obligatorio\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\roslyn\csc.exe
+D:\Programación III\Obligatorio\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Programación III\Obligatorio\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Programación III\Obligatorio\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Programación III\Obligatorio\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Programación III\Obligatorio\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Programación III\Obligatorio\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Programación III\Obligatorio\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\roslyn\System.Collections.Immutable.dll
+D:\Programación III\Obligatorio\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\roslyn\System.Reflection.Metadata.dll
+D:\Programación III\Obligatorio\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\roslyn\vbc.exe
+D:\Programación III\Obligatorio\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\roslyn\VBCSCompiler.exe
+D:\Programación III\Obligatorio\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\roslyn\VBCSCompiler.exe.config
+D:\Programación III\Obligatorio\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\ClienteWebFormObligatorio.dll.config
+D:\Programación III\Obligatorio\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\ClienteWebFormObligatorio.dll
+D:\Programación III\Obligatorio\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\ClienteWebFormObligatorio.pdb
+D:\Programación III\Obligatorio\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Programación III\Obligatorio\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\Microsoft.AI.DependencyCollector.dll
+D:\Programación III\Obligatorio\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Programación III\Obligatorio\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Programación III\Obligatorio\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\Microsoft.AI.Web.dll
+D:\Programación III\Obligatorio\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\Microsoft.AI.WindowsServer.dll
+D:\Programación III\Obligatorio\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\Microsoft.ApplicationInsights.dll
+D:\Programación III\Obligatorio\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Programación III\Obligatorio\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\Microsoft.AI.DependencyCollector.xml
+D:\Programación III\Obligatorio\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Programación III\Obligatorio\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\Microsoft.AI.Web.xml
+D:\Programación III\Obligatorio\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\Microsoft.AI.WindowsServer.xml
+D:\Programación III\Obligatorio\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\Microsoft.ApplicationInsights.xml
+D:\Programación III\Obligatorio\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Programación III\Obligatorio\ClienteWebFormObligatorio\ClienteWebFormObligatorio\obj\Debug\ClienteWebFormObligatorio.csprojAssemblyReference.cache
+D:\Programación III\Obligatorio\ClienteWebFormObligatorio\ClienteWebFormObligatorio\obj\Debug\ClienteWebFormObligatorio.csproj.CoreCompileInputs.cache
+D:\Programación III\Obligatorio\ClienteWebFormObligatorio\ClienteWebFormObligatorio\obj\Debug\ClienteWebFormObligatorio.csproj.CopyComplete
+D:\Programación III\Obligatorio\ClienteWebFormObligatorio\ClienteWebFormObligatorio\obj\Debug\ClienteWebFormObligatorio.dll
+D:\Programación III\Obligatorio\ClienteWebFormObligatorio\ClienteWebFormObligatorio\obj\Debug\ClienteWebFormObligatorio.pdb
+E:\Programación III\Obligatorio\Ejercicio 1\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\ApplicationInsights.config
+E:\Programación III\Obligatorio\Ejercicio 1\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\roslyn\csc.exe
+E:\Programación III\Obligatorio\Ejercicio 1\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Programación III\Obligatorio\Ejercicio 1\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Programación III\Obligatorio\Ejercicio 1\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Programación III\Obligatorio\Ejercicio 1\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Programación III\Obligatorio\Ejercicio 1\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Programación III\Obligatorio\Ejercicio 1\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Programación III\Obligatorio\Ejercicio 1\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\roslyn\System.Collections.Immutable.dll
+E:\Programación III\Obligatorio\Ejercicio 1\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\roslyn\System.Reflection.Metadata.dll
+E:\Programación III\Obligatorio\Ejercicio 1\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\roslyn\vbc.exe
+E:\Programación III\Obligatorio\Ejercicio 1\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\roslyn\VBCSCompiler.exe
+E:\Programación III\Obligatorio\Ejercicio 1\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\roslyn\VBCSCompiler.exe.config
+E:\Programación III\Obligatorio\Ejercicio 1\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\ClienteWebFormObligatorio.dll.config
+E:\Programación III\Obligatorio\Ejercicio 1\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\ClienteWebFormObligatorio.dll
+E:\Programación III\Obligatorio\Ejercicio 1\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\ClienteWebFormObligatorio.pdb
+E:\Programación III\Obligatorio\Ejercicio 1\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Programación III\Obligatorio\Ejercicio 1\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\Microsoft.AI.DependencyCollector.dll
+E:\Programación III\Obligatorio\Ejercicio 1\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Programación III\Obligatorio\Ejercicio 1\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Programación III\Obligatorio\Ejercicio 1\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\Microsoft.AI.Web.dll
+E:\Programación III\Obligatorio\Ejercicio 1\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\Microsoft.AI.WindowsServer.dll
+E:\Programación III\Obligatorio\Ejercicio 1\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\Microsoft.ApplicationInsights.dll
+E:\Programación III\Obligatorio\Ejercicio 1\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Programación III\Obligatorio\Ejercicio 1\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\Microsoft.AI.DependencyCollector.xml
+E:\Programación III\Obligatorio\Ejercicio 1\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Programación III\Obligatorio\Ejercicio 1\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\Microsoft.AI.Web.xml
+E:\Programación III\Obligatorio\Ejercicio 1\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\Microsoft.AI.WindowsServer.xml
+E:\Programación III\Obligatorio\Ejercicio 1\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\Microsoft.ApplicationInsights.xml
+E:\Programación III\Obligatorio\Ejercicio 1\ClienteWebFormObligatorio\ClienteWebFormObligatorio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Programación III\Obligatorio\Ejercicio 1\ClienteWebFormObligatorio\ClienteWebFormObligatorio\obj\Debug\ClienteWebFormObligatorio.dll
+E:\Programación III\Obligatorio\Ejercicio 1\ClienteWebFormObligatorio\ClienteWebFormObligatorio\obj\Debug\ClienteWebFormObligatorio.pdb
+E:\Programación III\Obligatorio\Ejercicio 1\ClienteWebFormObligatorio\ClienteWebFormObligatorio\obj\Debug\ClienteWebFormObligatorio.csprojAssemblyReference.cache
+E:\Programación III\Obligatorio\Ejercicio 1\ClienteWebFormObligatorio\ClienteWebFormObligatorio\obj\Debug\ClienteWebFormObligatorio.csproj.CoreCompileInputs.cache
+E:\Programación III\Obligatorio\Ejercicio 1\ClienteWebFormObligatorio\ClienteWebFormObligatorio\obj\Debug\ClienteWebFormObligatorio.csproj.CopyComplete

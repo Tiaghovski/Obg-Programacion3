@@ -1,0 +1,27 @@
+E:\Programación III\Obligatorio\ServicioWCFObligatorio\Persistencia\bin\Debug\Persistencia.dll
+E:\Programación III\Obligatorio\ServicioWCFObligatorio\Persistencia\bin\Debug\Persistencia.pdb
+E:\Programación III\Obligatorio\ServicioWCFObligatorio\Persistencia\bin\Debug\Dominio.dll
+E:\Programación III\Obligatorio\ServicioWCFObligatorio\Persistencia\bin\Debug\Dominio.pdb
+E:\Programación III\Obligatorio\ServicioWCFObligatorio\Persistencia\obj\Debug\Persistencia.dll
+E:\Programación III\Obligatorio\ServicioWCFObligatorio\Persistencia\obj\Debug\Persistencia.pdb
+D:\Programación III\Obligatorio\ServicioWCFObligatorio\Persistencia\bin\Debug\Persistencia.dll
+D:\Programación III\Obligatorio\ServicioWCFObligatorio\Persistencia\bin\Debug\Persistencia.pdb
+D:\Programación III\Obligatorio\ServicioWCFObligatorio\Persistencia\bin\Debug\Dominio.dll
+D:\Programación III\Obligatorio\ServicioWCFObligatorio\Persistencia\bin\Debug\Dominio.pdb
+D:\Programación III\Obligatorio\ServicioWCFObligatorio\Persistencia\obj\Debug\Persistencia.csprojAssemblyReference.cache
+D:\Programación III\Obligatorio\ServicioWCFObligatorio\Persistencia\obj\Debug\Persistencia.csproj.CoreCompileInputs.cache
+D:\Programación III\Obligatorio\ServicioWCFObligatorio\Persistencia\obj\Debug\Persistencia.csproj.CopyComplete
+D:\Programación III\Obligatorio\ServicioWCFObligatorio\Persistencia\obj\Debug\Persistencia.dll
+D:\Programación III\Obligatorio\ServicioWCFObligatorio\Persistencia\obj\Debug\Persistencia.pdb
+E:\Programación III\Obligatorio\ServicioWCFObligatorio\Persistencia\obj\Debug\Persistencia.csprojAssemblyReference.cache
+E:\Programación III\Obligatorio\ServicioWCFObligatorio\Persistencia\obj\Debug\Persistencia.csproj.CoreCompileInputs.cache
+E:\Programación III\Obligatorio\ServicioWCFObligatorio\Persistencia\obj\Debug\Persistencia.csproj.CopyComplete
+E:\Programación III\Obligatorio\Ejercicio 1\ServicioWCFObligatorio\Persistencia\bin\Debug\Persistencia.dll
+E:\Programación III\Obligatorio\Ejercicio 1\ServicioWCFObligatorio\Persistencia\bin\Debug\Persistencia.pdb
+E:\Programación III\Obligatorio\Ejercicio 1\ServicioWCFObligatorio\Persistencia\bin\Debug\Dominio.dll
+E:\Programación III\Obligatorio\Ejercicio 1\ServicioWCFObligatorio\Persistencia\bin\Debug\Dominio.pdb
+E:\Programación III\Obligatorio\Ejercicio 1\ServicioWCFObligatorio\Persistencia\obj\Debug\Persistencia.dll
+E:\Programación III\Obligatorio\Ejercicio 1\ServicioWCFObligatorio\Persistencia\obj\Debug\Persistencia.pdb
+E:\Programación III\Obligatorio\Ejercicio 1\ServicioWCFObligatorio\Persistencia\obj\Debug\Persistencia.csprojAssemblyReference.cache
+E:\Programación III\Obligatorio\Ejercicio 1\ServicioWCFObligatorio\Persistencia\obj\Debug\Persistencia.csproj.CoreCompileInputs.cache
+E:\Programación III\Obligatorio\Ejercicio 1\ServicioWCFObligatorio\Persistencia\obj\Debug\Persistencia.csproj.CopyComplete

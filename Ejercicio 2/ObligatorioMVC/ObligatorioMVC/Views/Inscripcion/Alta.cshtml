@@ -1,0 +1,60 @@
+﻿@model ObligatorioMVC.Models.ViewModels.InscripcionViewModel
+@{
+
+    ViewBag.Title = "Alta";
+}
+
+<h2 style="color:darkred; font-family:Century"><b>Agregue una Inscripción</b></h2>
+@if (ViewBag.Mensaje != null)
+{
+    <div class="alert alert-success alert-dismissible">
+        <a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
+        @ViewBag.Mensaje
+        <span class="close"></span>
+    </div>
+}
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <div class="form-horizontal">
+        <hr />
+
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.ListaAlumnos, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownListFor(model => model.DocumentoAlumno, Model.ListaAlumnos, "Seleccione el Alumno")
+                @Html.ValidationMessageFor(model => model.DocumentoAlumno, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.ListaCursosAsignatura, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownListFor(model => model.CodigoCurAsig, Model.ListaCursosAsignatura, "Seleccione el Curso Asignatura")
+                @Html.ValidationMessageFor(model => model.CodigoCurAsig, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Agregar" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Ir a la Lista de Inscripciones", "Lista")
+</div>
+
+<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+<script src="~/Scripts/jquery.validate.min.js"></script>
+<script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+
+
+
+
+
+
+

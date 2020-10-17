@@ -1,0 +1,94 @@
+c:\users\alumno\documents\visual studio 2015\Projects\ServicioWCFObligatorio\ServicioWCFObligatorio\bin\ApplicationInsights.config
+c:\users\alumno\documents\visual studio 2015\Projects\ServicioWCFObligatorio\ServicioWCFObligatorio\bin\ServicioWCFObligatorio.dll.config
+c:\users\alumno\documents\visual studio 2015\Projects\ServicioWCFObligatorio\ServicioWCFObligatorio\bin\ServicioWCFObligatorio.dll
+c:\users\alumno\documents\visual studio 2015\Projects\ServicioWCFObligatorio\ServicioWCFObligatorio\bin\ServicioWCFObligatorio.pdb
+c:\users\alumno\documents\visual studio 2015\Projects\ServicioWCFObligatorio\ServicioWCFObligatorio\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\alumno\documents\visual studio 2015\Projects\ServicioWCFObligatorio\ServicioWCFObligatorio\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\alumno\documents\visual studio 2015\Projects\ServicioWCFObligatorio\ServicioWCFObligatorio\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\alumno\documents\visual studio 2015\Projects\ServicioWCFObligatorio\ServicioWCFObligatorio\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\alumno\documents\visual studio 2015\Projects\ServicioWCFObligatorio\ServicioWCFObligatorio\bin\Microsoft.AI.Web.dll
+c:\users\alumno\documents\visual studio 2015\Projects\ServicioWCFObligatorio\ServicioWCFObligatorio\bin\Microsoft.AI.WindowsServer.dll
+c:\users\alumno\documents\visual studio 2015\Projects\ServicioWCFObligatorio\ServicioWCFObligatorio\bin\Microsoft.ApplicationInsights.dll
+c:\users\alumno\documents\visual studio 2015\Projects\ServicioWCFObligatorio\ServicioWCFObligatorio\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\alumno\documents\visual studio 2015\Projects\ServicioWCFObligatorio\ServicioWCFObligatorio\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\alumno\documents\visual studio 2015\Projects\ServicioWCFObligatorio\ServicioWCFObligatorio\bin\Microsoft.AI.Web.xml
+c:\users\alumno\documents\visual studio 2015\Projects\ServicioWCFObligatorio\ServicioWCFObligatorio\bin\Microsoft.AI.WindowsServer.xml
+c:\users\alumno\documents\visual studio 2015\Projects\ServicioWCFObligatorio\ServicioWCFObligatorio\bin\Microsoft.ApplicationInsights.xml
+c:\users\alumno\documents\visual studio 2015\Projects\ServicioWCFObligatorio\ServicioWCFObligatorio\obj\Debug\ServicioWCFObligatorio.csprojResolveAssemblyReference.cache
+c:\users\alumno\documents\visual studio 2015\Projects\ServicioWCFObligatorio\ServicioWCFObligatorio\obj\Debug\ServicioWCFObligatorio.dll
+c:\users\alumno\documents\visual studio 2015\Projects\ServicioWCFObligatorio\ServicioWCFObligatorio\obj\Debug\ServicioWCFObligatorio.pdb
+E:\Programación III\Obligatorio\ServicioWCFObligatorio\ServicioWCFObligatorio\bin\ApplicationInsights.config
+E:\Programación III\Obligatorio\ServicioWCFObligatorio\ServicioWCFObligatorio\bin\ServicioWCFObligatorio.dll.config
+E:\Programación III\Obligatorio\ServicioWCFObligatorio\ServicioWCFObligatorio\bin\ServicioWCFObligatorio.dll
+E:\Programación III\Obligatorio\ServicioWCFObligatorio\ServicioWCFObligatorio\bin\ServicioWCFObligatorio.pdb
+E:\Programación III\Obligatorio\ServicioWCFObligatorio\ServicioWCFObligatorio\bin\Dominio.dll
+E:\Programación III\Obligatorio\ServicioWCFObligatorio\ServicioWCFObligatorio\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Programación III\Obligatorio\ServicioWCFObligatorio\ServicioWCFObligatorio\bin\Microsoft.AI.DependencyCollector.dll
+E:\Programación III\Obligatorio\ServicioWCFObligatorio\ServicioWCFObligatorio\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Programación III\Obligatorio\ServicioWCFObligatorio\ServicioWCFObligatorio\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Programación III\Obligatorio\ServicioWCFObligatorio\ServicioWCFObligatorio\bin\Microsoft.AI.Web.dll
+E:\Programación III\Obligatorio\ServicioWCFObligatorio\ServicioWCFObligatorio\bin\Microsoft.AI.WindowsServer.dll
+E:\Programación III\Obligatorio\ServicioWCFObligatorio\ServicioWCFObligatorio\bin\Microsoft.ApplicationInsights.dll
+E:\Programación III\Obligatorio\ServicioWCFObligatorio\ServicioWCFObligatorio\bin\Persistencia.dll
+E:\Programación III\Obligatorio\ServicioWCFObligatorio\ServicioWCFObligatorio\bin\Dominio.pdb
+E:\Programación III\Obligatorio\ServicioWCFObligatorio\ServicioWCFObligatorio\bin\Persistencia.pdb
+E:\Programación III\Obligatorio\ServicioWCFObligatorio\ServicioWCFObligatorio\bin\Microsoft.AI.DependencyCollector.xml
+E:\Programación III\Obligatorio\ServicioWCFObligatorio\ServicioWCFObligatorio\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Programación III\Obligatorio\ServicioWCFObligatorio\ServicioWCFObligatorio\bin\Microsoft.AI.Web.xml
+E:\Programación III\Obligatorio\ServicioWCFObligatorio\ServicioWCFObligatorio\bin\Microsoft.AI.WindowsServer.xml
+E:\Programación III\Obligatorio\ServicioWCFObligatorio\ServicioWCFObligatorio\bin\Microsoft.ApplicationInsights.xml
+E:\Programación III\Obligatorio\ServicioWCFObligatorio\ServicioWCFObligatorio\obj\Debug\ServicioWCFObligatorio.dll
+E:\Programación III\Obligatorio\ServicioWCFObligatorio\ServicioWCFObligatorio\obj\Debug\ServicioWCFObligatorio.pdb
+D:\Programación III\Obligatorio\ServicioWCFObligatorio\ServicioWCFObligatorio\bin\ApplicationInsights.config
+D:\Programación III\Obligatorio\ServicioWCFObligatorio\ServicioWCFObligatorio\bin\ServicioWCFObligatorio.dll.config
+D:\Programación III\Obligatorio\ServicioWCFObligatorio\ServicioWCFObligatorio\bin\ServicioWCFObligatorio.dll
+D:\Programación III\Obligatorio\ServicioWCFObligatorio\ServicioWCFObligatorio\bin\ServicioWCFObligatorio.pdb
+D:\Programación III\Obligatorio\ServicioWCFObligatorio\ServicioWCFObligatorio\bin\Dominio.dll
+D:\Programación III\Obligatorio\ServicioWCFObligatorio\ServicioWCFObligatorio\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Programación III\Obligatorio\ServicioWCFObligatorio\ServicioWCFObligatorio\bin\Microsoft.AI.DependencyCollector.dll
+D:\Programación III\Obligatorio\ServicioWCFObligatorio\ServicioWCFObligatorio\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Programación III\Obligatorio\ServicioWCFObligatorio\ServicioWCFObligatorio\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Programación III\Obligatorio\ServicioWCFObligatorio\ServicioWCFObligatorio\bin\Microsoft.AI.Web.dll
+D:\Programación III\Obligatorio\ServicioWCFObligatorio\ServicioWCFObligatorio\bin\Microsoft.AI.WindowsServer.dll
+D:\Programación III\Obligatorio\ServicioWCFObligatorio\ServicioWCFObligatorio\bin\Microsoft.ApplicationInsights.dll
+D:\Programación III\Obligatorio\ServicioWCFObligatorio\ServicioWCFObligatorio\bin\Persistencia.dll
+D:\Programación III\Obligatorio\ServicioWCFObligatorio\ServicioWCFObligatorio\bin\Dominio.pdb
+D:\Programación III\Obligatorio\ServicioWCFObligatorio\ServicioWCFObligatorio\bin\Persistencia.pdb
+D:\Programación III\Obligatorio\ServicioWCFObligatorio\ServicioWCFObligatorio\bin\Microsoft.AI.DependencyCollector.xml
+D:\Programación III\Obligatorio\ServicioWCFObligatorio\ServicioWCFObligatorio\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Programación III\Obligatorio\ServicioWCFObligatorio\ServicioWCFObligatorio\bin\Microsoft.AI.Web.xml
+D:\Programación III\Obligatorio\ServicioWCFObligatorio\ServicioWCFObligatorio\bin\Microsoft.AI.WindowsServer.xml
+D:\Programación III\Obligatorio\ServicioWCFObligatorio\ServicioWCFObligatorio\bin\Microsoft.ApplicationInsights.xml
+D:\Programación III\Obligatorio\ServicioWCFObligatorio\ServicioWCFObligatorio\obj\Debug\ServicioWCFObligatorio.csprojAssemblyReference.cache
+D:\Programación III\Obligatorio\ServicioWCFObligatorio\ServicioWCFObligatorio\obj\Debug\ServicioWCFObligatorio.csproj.CoreCompileInputs.cache
+D:\Programación III\Obligatorio\ServicioWCFObligatorio\ServicioWCFObligatorio\obj\Debug\ServicioWCFObligatorio.csproj.CopyComplete
+D:\Programación III\Obligatorio\ServicioWCFObligatorio\ServicioWCFObligatorio\obj\Debug\ServicioWCFObligatorio.dll
+D:\Programación III\Obligatorio\ServicioWCFObligatorio\ServicioWCFObligatorio\obj\Debug\ServicioWCFObligatorio.pdb
+E:\Programación III\Obligatorio\ServicioWCFObligatorio\ServicioWCFObligatorio\obj\Debug\ServicioWCFObligatorio.csprojAssemblyReference.cache
+E:\Programación III\Obligatorio\ServicioWCFObligatorio\ServicioWCFObligatorio\obj\Debug\ServicioWCFObligatorio.csproj.CoreCompileInputs.cache
+E:\Programación III\Obligatorio\ServicioWCFObligatorio\ServicioWCFObligatorio\obj\Debug\ServicioWCFObligatorio.csproj.CopyComplete
+E:\Programación III\Obligatorio\Ejercicio 1\ServicioWCFObligatorio\ServicioWCFObligatorio\bin\ApplicationInsights.config
+E:\Programación III\Obligatorio\Ejercicio 1\ServicioWCFObligatorio\ServicioWCFObligatorio\bin\ServicioWCFObligatorio.dll.config
+E:\Programación III\Obligatorio\Ejercicio 1\ServicioWCFObligatorio\ServicioWCFObligatorio\bin\ServicioWCFObligatorio.dll
+E:\Programación III\Obligatorio\Ejercicio 1\ServicioWCFObligatorio\ServicioWCFObligatorio\bin\ServicioWCFObligatorio.pdb
+E:\Programación III\Obligatorio\Ejercicio 1\ServicioWCFObligatorio\ServicioWCFObligatorio\bin\Dominio.dll
+E:\Programación III\Obligatorio\Ejercicio 1\ServicioWCFObligatorio\ServicioWCFObligatorio\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Programación III\Obligatorio\Ejercicio 1\ServicioWCFObligatorio\ServicioWCFObligatorio\bin\Microsoft.AI.DependencyCollector.dll
+E:\Programación III\Obligatorio\Ejercicio 1\ServicioWCFObligatorio\ServicioWCFObligatorio\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Programación III\Obligatorio\Ejercicio 1\ServicioWCFObligatorio\ServicioWCFObligatorio\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Programación III\Obligatorio\Ejercicio 1\ServicioWCFObligatorio\ServicioWCFObligatorio\bin\Microsoft.AI.Web.dll
+E:\Programación III\Obligatorio\Ejercicio 1\ServicioWCFObligatorio\ServicioWCFObligatorio\bin\Microsoft.AI.WindowsServer.dll
+E:\Programación III\Obligatorio\Ejercicio 1\ServicioWCFObligatorio\ServicioWCFObligatorio\bin\Microsoft.ApplicationInsights.dll
+E:\Programación III\Obligatorio\Ejercicio 1\ServicioWCFObligatorio\ServicioWCFObligatorio\bin\Persistencia.dll
+E:\Programación III\Obligatorio\Ejercicio 1\ServicioWCFObligatorio\ServicioWCFObligatorio\bin\Dominio.pdb
+E:\Programación III\Obligatorio\Ejercicio 1\ServicioWCFObligatorio\ServicioWCFObligatorio\bin\Persistencia.pdb
+E:\Programación III\Obligatorio\Ejercicio 1\ServicioWCFObligatorio\ServicioWCFObligatorio\bin\Microsoft.AI.DependencyCollector.xml
+E:\Programación III\Obligatorio\Ejercicio 1\ServicioWCFObligatorio\ServicioWCFObligatorio\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Programación III\Obligatorio\Ejercicio 1\ServicioWCFObligatorio\ServicioWCFObligatorio\bin\Microsoft.AI.Web.xml
+E:\Programación III\Obligatorio\Ejercicio 1\ServicioWCFObligatorio\ServicioWCFObligatorio\bin\Microsoft.AI.WindowsServer.xml
+E:\Programación III\Obligatorio\Ejercicio 1\ServicioWCFObligatorio\ServicioWCFObligatorio\bin\Microsoft.ApplicationInsights.xml
+E:\Programación III\Obligatorio\Ejercicio 1\ServicioWCFObligatorio\ServicioWCFObligatorio\obj\Debug\ServicioWCFObligatorio.dll
+E:\Programación III\Obligatorio\Ejercicio 1\ServicioWCFObligatorio\ServicioWCFObligatorio\obj\Debug\ServicioWCFObligatorio.pdb
+E:\Programación III\Obligatorio\Ejercicio 1\ServicioWCFObligatorio\ServicioWCFObligatorio\obj\Debug\ServicioWCFObligatorio.csprojAssemblyReference.cache
+E:\Programación III\Obligatorio\Ejercicio 1\ServicioWCFObligatorio\ServicioWCFObligatorio\obj\Debug\ServicioWCFObligatorio.csproj.CoreCompileInputs.cache
+E:\Programación III\Obligatorio\Ejercicio 1\ServicioWCFObligatorio\ServicioWCFObligatorio\obj\Debug\ServicioWCFObligatorio.csproj.CopyComplete

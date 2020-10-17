@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="40f8c297-fc7b-4c2e-ad63-966945ff1547" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:49696/AlumnoService.svc?wsdl" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="AlumnoService.xsd" MetadataType="Schema" ID="10b5f116-f166-4f43-903e-f7f473c0549c" SourceId="1" SourceUrl="http://localhost:49696/AlumnoService.svc?xsd=xsd2" />
+    <MetadataFile FileName="AlumnoService.wsdl" MetadataType="Wsdl" ID="b0c9c9f2-e0ae-4727-90d1-7570bc12e6ef" SourceId="1" SourceUrl="http://localhost:49696/AlumnoService.svc?wsdl" />
+    <MetadataFile FileName="AlumnoService1.xsd" MetadataType="Schema" ID="f89955cd-2abf-4446-96c6-b5166496f8de" SourceId="1" SourceUrl="http://localhost:49696/AlumnoService.svc?xsd=xsd1" />
+    <MetadataFile FileName="AlumnoService2.xsd" MetadataType="Schema" ID="15d2e5bd-f41a-482f-ae68-fee4c6f95cfe" SourceId="1" SourceUrl="http://localhost:49696/AlumnoService.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

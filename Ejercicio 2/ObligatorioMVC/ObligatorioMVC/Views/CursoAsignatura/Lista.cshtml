@@ -1,0 +1,64 @@
+﻿@model IEnumerable<ObligatorioMVC.Models.CursoAsignatura>
+
+@{
+    ViewBag.Title = "Lista";
+
+}
+
+<h2 style="color:darkred; font-family:Century"><b>Lista de Cursos de Asignatura</b></h2>
+<br />
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Numero)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.fechaComienzo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.fechaFin)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Finalizado)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Asignatura)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Docente)
+        </th>
+
+    </tr>
+
+    @foreach (var item in Model)
+    {
+    <tr>
+        <td>
+            @item.Numero
+            @*@Html.DisplayFor(modelItem => item.Numero)*@
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.fechaComienzo)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.fechaFin)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Finalizado)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NombreAsignatura)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DocumentoDocente)
+        </td>
+    </tr>
+    }
+
+</table>
+
+<div>   
+    @Html.ActionLink("Agregar un Curso de Asignatura", "Alta")
+</div>
+
